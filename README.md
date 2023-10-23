@@ -1,4 +1,5 @@
 # apnacollege-demo
+
 This is my first git repo.
 <br>
-Auther : Mubashir
+Auther : Mubashir Hassan
